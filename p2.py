@@ -1,0 +1,3 @@
+SCORE=50
+SCORE=75
+print(SCORE)
